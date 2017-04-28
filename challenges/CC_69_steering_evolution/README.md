@@ -20,4 +20,9 @@
 
 
 
+#### By: [Herman](https://github.com/HermanBergner/hermanbergner.github.io)
+[Repository](https://github.com/HermanBergner/hermanbergner.github.io) | [Demo](https://hermanbergner.github.io/)
+ * Now with a new and amazing reset button
+
+
 
